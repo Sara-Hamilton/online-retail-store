@@ -1,5 +1,24 @@
 # OnlineRetailStore
 
+## Add Firebase Credentials
+Create an account and get credentials from Firebase (https://firebase.google.com/).
+Create a new project.
+Give it the name of your choice.
+Select your Country/Region.
+Choose the add Firebase to your web app option.
+Add a file named api-keys.ts in the src/app directory.
+
+Add the following code to the file with your credentials in place of xxxx.
+```
+export var masterFirebaseConfig = {
+    apiKey: "xxxx",
+    authDomain: "xxxx.firebaseapp.com",
+    databaseURL: "https://xxxx.firebaseio.com",
+    storageBucket: "xxxx.appspot.com",
+    messagingSenderId: "xxxx"
+  };
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
