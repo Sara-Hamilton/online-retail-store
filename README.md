@@ -1,12 +1,12 @@
 # OnlineRetailStore
 
 ## Add Firebase Credentials
-Create an account and get credentials from Firebase (https://firebase.google.com/).
-Create a new project.
-Give it the name of your choice.
-Select your Country/Region.
-Choose the add Firebase to your web app option.
-Add a file named api-keys.ts in the src/app directory.
+Create an account and get credentials from Firebase (https://firebase.google.com/).  
+Create a new project.  
+Give it the name of your choice.  
+Select your Country/Region.  
+Choose the add Firebase to your web app option.  
+Add a file named api-keys.ts in the src/app directory.  
 
 Add the following code to the file with your credentials in place of xxxx.
 ```
