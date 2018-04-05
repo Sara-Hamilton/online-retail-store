@@ -42,7 +42,7 @@ export var masterFirebaseConfig = {
 ##  Run the Program  
 move into the directory
 ```
-$ cd quasi-etsy
+$ cd online-retail-store
 ```  
 install npm
 ```
